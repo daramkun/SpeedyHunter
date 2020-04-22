@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Castle
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 2
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: f7722bfb09e070a4a9762bed53a3b685, type: 3}
+    totalSpriteSurfaceArea: 786432
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: ab94a224a24300a49be5e585b76704d3, type: 3}
+  - {fileID: 21300000, guid: 6644ea36a18fdfe41874bca98cbd82fd, type: 3}
+  - {fileID: 21300000, guid: ac0084178c2012b46836002aa368d74d, type: 3}
+  - {fileID: 21300000, guid: 546b758aac93c964e9b57ac30a24cbef, type: 3}
+  - {fileID: 21300000, guid: 5de9f94ee33dc4641807eeb2c56a6a89, type: 3}
+  - {fileID: 21300000, guid: ae9faaff5b13bef4fb51f7d9c636eddd, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Castle_2
+  - Castle_1
+  - Castle_4
+  - Castle_0
+  - Castle_5
+  - Castle_3
+  m_Tag: Castle
+  m_IsVariant: 0

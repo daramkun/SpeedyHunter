@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Dessert
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 2
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 94068d1c78549e246afd7bc20942e9a7, type: 3}
+    totalSpriteSurfaceArea: 917504
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 0981b4d2f4420854082afd05d16e5f27, type: 3}
+  - {fileID: 21300000, guid: 095c5045afe40af4dbe9886b7464ccb1, type: 3}
+  - {fileID: 21300000, guid: 8305db750022a8345840b3ab1f0690e0, type: 3}
+  - {fileID: 21300000, guid: 103e29b56089a104990ee664617fa4ca, type: 3}
+  - {fileID: 21300000, guid: 9ee1806b625c3d849bb03c9e755db182, type: 3}
+  - {fileID: 21300000, guid: 904377cc614d16d4d8b561c5ede00f63, type: 3}
+  - {fileID: 21300000, guid: 0c59bdbd7856d7b43b3a5fa03c15bf64, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Dessert_6
+  - Dessert_0
+  - Dessert_2
+  - Dessert_4
+  - Dessert_1
+  - Dessert_5
+  - Dessert_3
+  m_Tag: Dessert
+  m_IsVariant: 0

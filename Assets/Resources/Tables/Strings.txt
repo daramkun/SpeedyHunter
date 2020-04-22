@@ -1,0 +1,36 @@
+#strength-training-1|근력 단련 (1단계)
+#strength-training-description-1|무기를 들 힘을 키웁니다.
+#strength-training-2|근력 단련 (2단계)
+#strength-training-description-2|무기를 다룰 힘을 키웁니다.
+#strength-training-3|근력 단련 (3단계)
+#strength-training-description-3|무기를 더 잘 다룰 힘을 키웁니다.
+#weapon-grinding-1|무기 연마 (1단계)
+#weapon-grinding-description-1|무딘 칼날을 날카롭게 연마합니다.
+#weapon-grinding-2|무기 연마 (2단계)
+#weapon-grinding-description-2|무딘 칼날을 날카롭게 연마합니다.
+#weapon-mastery-1|무기 숙달 (1단계)
+#weapon-mastery-description-1|무기를 손에 익힙니다.
+#weapon-mastery-2|무기 숙달 (2단계)
+#weapon-mastery-description-2|무기를 손에 익힙니다.
+#weapon-mastery-3|무기 숙달 (3단계)
+#weapon-mastery-description-3|무기를 손에 익힙니다.
+#weapon-mastery-4|무기 숙달 (4단계)
+#weapon-mastery-description-4|무기를 손에 익힙니다.
+#weapon-mastery-5|무기 숙달 (5단계)
+#weapon-mastery-description-5|무기를 손에 익힙니다.
+#pain-tolerance-training-1|맷집 단련 (1단계)
+#pain-tolerance-training-description-1|적의 공격을 더 많이 버티게 합니다.
+#pain-tolerance-training-2|맷집 단련 (2단계)
+#pain-tolerance-training-description-2|적의 공격을 더 많이 버티게 합니다.
+#pain-tolerance-training-3|맷집 단련 (3단계)
+#pain-tolerance-training-description-3|적의 공격을 더 많이 버티게 합니다.
+#pain-tolerance-training-4|맷집 단련 (4단계)
+#pain-tolerance-training-description-4|적의 공격을 더 많이 버티게 합니다.
+#wits-training-1|순발력 단련 (1단계)
+#wits-training-description-1|적의 공격을 더 잘 피하게 합니다.
+#wits-training-2|순발력 단련 (2단계)
+#wits-training-description-2|적의 공격을 더 잘 피하게 합니다.
+#speed-training-1|속도 단련 (1단계)
+#speed-training-description-1|공격 간격을 더 빠르게 합니다.
+#speed-training-2|속도 단련 (2단계)
+#speed-training-description-2|공격 간격을 더 빠르게 합니다.

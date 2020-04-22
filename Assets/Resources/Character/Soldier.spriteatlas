@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Soldier
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 2
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 89b0d3b42e7981a48bcf949b4acd16a4, type: 3}
+    totalSpriteSurfaceArea: 108864
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 4c0ddbd14e8609840b2254ffc873b2fc, type: 3}
+  - {fileID: 21300000, guid: d96553b3124e5be40bf8c408894137fb, type: 3}
+  - {fileID: 21300000, guid: f05fe0f39674e8a46bec55578d113927, type: 3}
+  - {fileID: 21300000, guid: 58137b74d03143a4aa337da0136c4c31, type: 3}
+  - {fileID: 21300000, guid: 19d3f96561c08b04a89763c4d37ca3c9, type: 3}
+  - {fileID: 21300000, guid: ad16b81606c640a44ad7328f2e20c2c3, type: 3}
+  - {fileID: 21300000, guid: 73c0158811067a84998ed967076b0342, type: 3}
+  - {fileID: 21300000, guid: 9f623489fd2bb32498ae35118ceed2a4, type: 3}
+  - {fileID: 21300000, guid: bd9af37a282d1f342800a6892c9d8479, type: 3}
+  - {fileID: 21300000, guid: d616d67ac61d91042b5c6d09c91b38d6, type: 3}
+  - {fileID: 21300000, guid: 95fc5d5bf8221e24282b02c87ddd11ee, type: 3}
+  - {fileID: 21300000, guid: 6407d88b1adf97142ac0151a01cbdabd, type: 3}
+  - {fileID: 21300000, guid: b27dae8b3eb9acc4f89ad187d3fa05a4, type: 3}
+  - {fileID: 21300000, guid: 53e1c99ba4a1da84591eb3b95aa03b95, type: 3}
+  - {fileID: 21300000, guid: 1245c68cb36d22a4bb30b79dc5f9c490, type: 3}
+  - {fileID: 21300000, guid: 0479909c11e7b644493556e5fc1c814c, type: 3}
+  - {fileID: 21300000, guid: d0f3962d1a8d0a941a8ef42ec9cee619, type: 3}
+  - {fileID: 21300000, guid: b238f3edaa04efe4a8c7d172012dc432, type: 3}
+  - {fileID: 21300000, guid: ea37b51e381a65b4a8ff7d6b858b4235, type: 3}
+  - {fileID: 21300000, guid: cd3d646e2a02b3d45844815fdf16abad, type: 3}
+  - {fileID: 21300000, guid: ccb01a1f3e8fae54b86ac6c34e747f95, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - soldier_walk_003
+  - soldier_die_004
+  - soldier_walk_006
+  - soldier_walk_001
+  - soldier_walk_004
+  - soldier_hit_002
+  - soldier_crouch_002
+  - soldier_crouch_001
+  - soldier_walk_008
+  - soldier_walk_002
+  - soldier
+  - soldier_attack_001
+  - soldier_die_005
+  - soldier_die_001
+  - soldier_attack_002
+  - soldier_hit_001
+  - soldier_die_003
+  - soldier_walk_005
+  - soldier_die_002
+  - soldier_attack_003
+  - soldier_walk_007
+  m_Tag: Soldier
+  m_IsVariant: 0
